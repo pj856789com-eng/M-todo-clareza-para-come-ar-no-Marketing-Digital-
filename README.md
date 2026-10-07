@@ -1,5 +1,4 @@
-# M-todo-clareza-para-come-ar-no-Marketing-Digital-
-<!DOCTYPE html>
+<!DOCTPY HTML>
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
